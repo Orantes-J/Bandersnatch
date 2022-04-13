@@ -1,1 +1,0 @@
-good', 'alright', 'chill', 'decent
